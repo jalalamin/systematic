@@ -34,7 +34,12 @@ header{
 	padding:3px 0;
 	border-radius:10px;
 }
-.header_up_search a i{
+.header_up_search form input{
+    padding: 5px;
+    border: none;
+    border-radius: 10px;
+}
+.header_up_search form i{
 	float:right;
 	background:red;
 	color:white;
